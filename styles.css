@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+    margin: 15%;
+
+}
+#search_box{
+    border-color: lightgray;
+    margin-top: 20px;
+    background-image: url(http://assets.stickpng.com/images/59cfc4d2d3b1936210a5ddc7.png);
+    background-size: 3%;
+    background-position-y: center;
+    background-position-x: 5px;
+    background-repeat: no-repeat;
+    padding-left: 2.5%;
+
+}
+#button{
+    margin-top: 20px;
+    border:black;
+    font-size: 100%;
+    width: 15%;
+    margin-left: 10px;
+}
+.link{
+    color: black;
+    text-align: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+.disc{
+    vertical-align: bottom;
+    padding-top: 50px;
+    margin-left: 10px;
+}
